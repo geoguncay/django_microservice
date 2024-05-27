@@ -1,6 +1,4 @@
-# Compose sample application
-
-## Django application in dev mode
+# Django application in dev mode in Docker with djangorestframework 
 
 Project structure:
 
