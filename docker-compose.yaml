@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    container_name: django
+    volumes:
+      - .:/microservice
+    ports:
+      - "8000:8000"
+
