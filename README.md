@@ -74,3 +74,17 @@ Stop and remove the containers
 ```cmd
 $ docker compose down```
 ````
+
+Too see API navigate to `http://localhost:8000/api/v1/` in your web browser.
+
+Too see Documentation navigate to `http://localhost:8000/docs/` in your web browser.
+
+<img
+    style="margin: 10px"
+    src="./example/api.png"
+  />
+
+<img
+    style="margin: 10px"
+    src="./example/doc.png"
+  />
